@@ -1,0 +1,122 @@
+/* Fonts Weights */
+
+.f-light {
+    font-weight: 300;
+}
+.f-regular {
+    font-weight: 400;
+}
+.f-bold {
+    font-weight: 700;
+}
+.f-extrabold {
+    font-weight: 900;
+}
+
+/* Fonts Size */
+.f-12 {
+    font-size: 12px;
+}
+.f-15 {
+    font-size: 15px;
+}
+.f-16 {
+    font-size: 16px;
+}
+.f-18 {
+    font-size: 18px;
+}
+.f-20 {
+    font-size: 20px;
+}
+.f-21 {
+    font-size: 21px;
+}
+.f-24 {
+    font-size: 24px;
+}
+.f-36 {
+    font-size: 36px;
+}
+
+/* Fonts Style */
+
+
+
+/* Backgrounds */
+.bg-gray {
+    background-color: rgba(35,31,32,0.5);
+}
+
+.bg-gray-dark {
+    background-color: rgba(35,31,32,1);
+}
+
+.fg-smart-brown {
+    color: #E7C679;
+}
+
+/* Absolute Center */
+.absolute-center {
+  height: 20%;
+  overflow: none;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+/* Circle */
+.circle-small {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+.circle-30 {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+
+/* Remove padding & margin */
+
+.rem-l-pad {
+    padding-left: 0 !important;
+}
+
+.rem-r-pad {
+    padding-right: 0 !important;
+}
+
+.rem-both-pad {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Equal width cols */
+
+.col-eq-5 {
+    width: 20%;
+    min-height: 1px;
+    float: left;
+    position: relative;
+}
+
+/* centered Column */
+.col-center {
+    margin: 0 auto;
+    float: none;
+}
+
+/* Overlay Image */
+
+
+.border{
+    border-top: 2px solid #BBBCBF;
+}
+
+.clrWhite {
+    color: #fff !important;
+}
